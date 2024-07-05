@@ -3,3 +3,11 @@ h1{
     background-color: aqua;
     text-align: center;
     }
+    video{
+        width: 400px;
+    }
+    h2{
+        font-weight: 1200;
+        background-color: blanchedalmond;
+        color: blue;
+    }
